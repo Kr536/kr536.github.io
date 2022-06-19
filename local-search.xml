@@ -17,11 +17,11 @@
   
   
   <entry>
-    <title>page</title>
+    <title>一篇测试文章</title>
     <link href="/2022/06/19/page/"/>
     <url>/2022/06/19/page/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><ul><li>前言1<br/><br>内容</li></ul>]]></content>
     
     
     
